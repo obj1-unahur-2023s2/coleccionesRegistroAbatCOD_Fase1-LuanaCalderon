@@ -1,0 +1,7 @@
+import registroAbatidos.*
+
+object cosultas {
+	
+	
+	
+}
