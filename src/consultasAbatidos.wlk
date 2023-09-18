@@ -1,7 +1,0 @@
-import registroAbatidos.*
-
-object cosultas {
-	
-	
-	
-}
